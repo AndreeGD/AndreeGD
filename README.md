@@ -2,7 +2,7 @@
 - 👀 I’m interested in JS and more languages
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me -> Discord: AndreeG#3177
 
 <!---
 AndreeGD/AndreeGD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
